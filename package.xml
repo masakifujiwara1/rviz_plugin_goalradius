@@ -1,10 +1,10 @@
 <package format="2">
-  <name>rviz_plugin_examples</name>
+  <name>rviz_plugin_goalradius</name>
   <version>1.0.0</version>
-  <description>Rviz plugin examples</description>
+  <description>Rviz plugin goalradius</description>
 
-  <author email="groadpg@gmail.com">RyodoTanaka</author>
-  <maintainer email="groadpg@gmail.com">RyodoTanaka</maintainer>
+  <author email="fmasaki2020@gmail.com">MasakiFujiwara</author>
+  <maintainer email="fmasaki2020@gmail.com">MasakiFujiwara</maintainer>
 
   <license>Appache2.0</license>
 

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(rviz_plugin_examples)
+project(rviz_plugin_goalradius)
 
 ###################
 # compile options #
@@ -66,7 +66,7 @@ link_directories(${catkin_LIBRARY_DIRS})
 
 # source codes #
 set(HEADERS
-  include/rviz_plugin_examples/dial_panel.h
+  include/rviz_plugin_goalradius/dial_panel.h
   )
 qt5_wrap_ui(UIC_FILES
   src/ui/dial_panel.ui
