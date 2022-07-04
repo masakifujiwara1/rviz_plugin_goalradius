@@ -5,7 +5,7 @@ Examples for rviz plugin for `melodic` environment.
 ```bash
 $ mkdir <catkin_ws>/src
 $ cd <catkin_ws>/src
-$ git clone -b melodic-devel https://github.com/RyodoTanaka/rviz_plugin_examples.git
+$ git clone -b melodic-devel https://github.com/masakifujiwara1/rviz_plugin_goalradius.git
 $ cd <catkin_ws>
 $ rosdep install -i -y -r --from-paths src
 $ catkin build
@@ -18,5 +18,4 @@ Do not forget to set path as below.
 $ cd <catkin_ws>
 $ source devel/setup.bash
 ```
-Then, run the Rviz as below video.
-[![rviz-panel](.images/rviz-panel.gif)](https://youtu.be/xL5g6bMIP3w)
+
